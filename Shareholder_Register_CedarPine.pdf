@@ -1,0 +1,72 @@
+%PDF-1.4
+% FCC-DEMO-REGISTER-V1
+% Jordan Blake|PERSON||Director|60|Canada|0.960|Jordan Blake owns 60% and is a director
+% Cedar Lane Holdings Inc.|ENTITY|corporation|Shareholder|40|Canada|0.890|Cedar Lane Holdings Inc. owns 40%
+% Mira Shah|PERSON||Corporate Secretary|0|Canada|0.720|Mira Shah is the corporate secretary
+% END-FCC-DEMO-REGISTER
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Length 607 >>
+stream
+BT
+/F1 16 Tf
+72 760 Td
+(SHAREHOLDER REGISTER) Tj
+/F1 12 Tf
+0 -28 Td
+(Cedar & Pine Holdings Inc.) Tj
+/F1 11 Tf
+0 -18 Td
+(Ontario \(OBCA\)) Tj
+0 -18 Td
+(Registration BN 81920 4471) Tj
+0 -18 Td
+(Issued common shares: 1,000) Tj
+0 -18 Td
+( ) Tj
+0 -18 Td
+(Jordan Blake) Tj
+0 -18 Td
+(600 common shares  ·  60%  ·  Director) Tj
+0 -18 Td
+( ) Tj
+0 -18 Td
+(Cedar Lane Holdings Inc.) Tj
+0 -18 Td
+(400 common shares  ·  40%  ·  Shareholder) Tj
+0 -18 Td
+( ) Tj
+0 -18 Td
+(Mira Shah) Tj
+0 -18 Td
+(Corporate Secretary  ·  no shares) Tj
+0 -18 Td
+( ) Tj
+0 -18 Td
+(This register is demonstration data for staff training.) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Page /Parent 4 0 R /MediaBox [0 0 612 792] /Contents 2 0 R /Resources << /Font << /F1 1 0 R >> >> >>
+endobj
+4 0 obj
+<< /Type /Pages /Count 1 /Kids [3 0 R] >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 4 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000344 00000 n 
+0000000414 00000 n 
+0000001072 00000 n 
+0000001198 00000 n 
+0000001255 00000 n 
+trailer << /Size 6 /Root 5 0 R >>
+startxref
+1304
+%%EOF
